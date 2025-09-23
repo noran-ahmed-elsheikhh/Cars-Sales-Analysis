@@ -32,6 +32,9 @@ Unnecessary tables were removed to streamline the schema, and numerical columns 
 8. Roles & Responsibilities
 
 9. Future Enhancements
+10. Contact Information
+
+11. Contributions & Support
 ## 🏆**Project Objectives:-**
 
 ---
@@ -148,10 +151,7 @@ Noran Ahmed Elsheikh
 *   **Email:** [noran.ahmed.elsheikh@gmail.com]
 *   **Linkedin:**[https://www.linkedin.com/in/noran-ahmed-elsheikh/]
 ## ⭐ **Contributions & Support**:-
-
 ---
 
 If you found this project helpful, give it a ⭐ and feel free to contribute via pull requests!
-10. Contact Information
 
-11. Contributions & Support
